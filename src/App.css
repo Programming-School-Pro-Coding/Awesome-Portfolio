@@ -16,3 +16,7 @@
     border-radius: 5px;
     background-color: rgba(54, 54, 54, 0.5);
 }
+
+* {
+    transition: all 0.5s;
+}
